@@ -1,0 +1,186 @@
+body {
+	background-color: white;
+	font-family: Arial, sans-serif, serif;
+	margin: 0;
+}
+
+h1, h2, h3 {
+	margin: 1px;
+	text-align: center;
+	background: blue;
+	color: white;
+} 
+
+/*TechWheel pic image*/
+#header {
+	background-color: blue;
+	background-image: url("TechWheel.jpg");
+	background-repeat: repeat-x 0 0;
+	color: white;
+	//text-align: center;
+	padding-top: 150px;
+	padding-bottom: 145px;
+	margin-left: auto;
+	margin-right: auto;
+	//background:url("TechWheel.jpg") repeat-x 0 0;
+	//background:url("TechWheel.jpg") no-repeat top center;
+}
+
+/*#content {
+	margin-top: 5px;
+	padding: 10px;
+}
+*/
+
+#nav ul {
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+
+#nav ul li {
+	background-color: blue;
+	display: inline-block;
+	color: white;
+	list-style-type: none;
+	margin: 0;
+}
+
+#nav ul li a {
+	color: white;
+	text-decoration: none;
+	background-color: blue;
+	padding: 5px;
+	border-radius: 15px;
+}
+
+#nav ul li a:hover {
+	background-color: black;
+	color: yellow;
+}
+
+
+
+
+#content {
+	padding: 10px;
+} 
+
+#main {
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+
+#nav2 ul {
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+
+#nav2 ul li {
+	background-color: blue;
+	display: inline-block;
+	color: white;
+	list-style-type: none;
+	margin: 0;
+}
+
+#nav2 ul li a {
+	color: white;
+	text-decoration: none;
+	background-color: blue;
+	padding: 5px;
+	//border: 5px solid black;
+	border-radius: 15px;
+}
+
+#nav2 ul li a:hover {
+	background-color: black;
+	color: yellow;
+}
+
+
+/*Pictures*/
+#pic {
+	border-width: 0px;
+	border-style: solid;
+	border-color: black;
+	display: block; 	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/*Footer*/
+#footer {
+	background-color: blue;
+	color: white;
+	clear: both;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
